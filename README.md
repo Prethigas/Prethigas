@@ -81,6 +81,23 @@ Designed a restaurant-style web app with **product showcases, responsive menus**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)<img height="40" src="https://img.icons8.com/color/48/000000/javascript.png"/><br>
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge)<img height="40" src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
   
+---
+
+Here's a neat and consistent "IDE and Tools I Use" section based on your updated list:
+
+---
+
+### 🚀 IDE and Tools I Use
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" height="50" width="50"/>
+  <img src="https://img.icons8.com/officel/480/null/java-eclipse.png" alt="Eclipse IDE" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IntelliJ IDEA" height="50" width="50"/>
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL Workbench" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" height="50" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="Figma" height="50" width="50"/>
+</p>
 
 ---
 
