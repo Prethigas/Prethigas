@@ -137,7 +137,12 @@ Here's a neat and consistent "IDE and Tools I Use" section based on your updated
 [![LeetCode Stats](https://leetcard.jacoblin.cool/prethi__1204?theme=dark&font=Grenze)](https://leetcode.com/prethi__1204)
 
 ---
-
+## 🔔 ONLINE PLATFORMS  
+ 
+ >LeetCode -- https://leetcode.com/u/prethi__1204/ <br>
+ >CodeChef -- https://www.codechef.com/users/prethi_1204 <br>
+ >HackerRank -- https://www.hackerrank.com/profile/prethiga12 <br>
+ 
 ## 👥 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/prethiga-s" target="_blank">
