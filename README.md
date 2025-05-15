@@ -134,10 +134,10 @@ Designed a restaurant-style web app with **product showcases, responsive menus**
 
 ---
 ## 🔔 ONLINE PLATFORMS  
- 
- >LeetCode -- https://leetcode.com/u/prethi__1204/ <br>
- >CodeChef -- https://www.codechef.com/users/prethi_1204 <br>
- >HackerRank -- https://www.hackerrank.com/profile/prethiga12 <br>
+
+ <img height="40" src="https://img.icons8.com/?size=100&id=h5EUmNCXhSH0&format=png&color=000000"/> [HackerRank] -- https://www.hackerrank.com/profile/prethiga12 <br>
+ <img height="40" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000"/> [LeetCode] -- https://leetcode.com/u/prethi__1204/ <br>
+ <img height="40" src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png&color=000000"/> [CodeChef] -- https://www.codechef.com/users/prethi_1204 <br>
 
 ---
 ## 👥 Connect with Me  
